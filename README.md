@@ -1,0 +1,1 @@
+A repo to experiment with neural networks, some of which I programmed myself from scratch.
